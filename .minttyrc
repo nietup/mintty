@@ -1,0 +1,5 @@
+" ln minttyrc/.minttyrc .minttyrc
+
+Columns=120
+Rows=40
+ThemeFile=flat-ui
